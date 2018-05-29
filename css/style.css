@@ -1,0 +1,35 @@
+body{
+    width: 100%;
+    margin: 0;
+}
+.sessions{
+    width: 30%;
+    margin: 0 auto;
+}
+.table{
+    
+    padding: 2px;
+    width: 90%;
+   margin: 0 auto;
+    display: flex;
+}
+.table-head{
+    font-size: 10px;
+    font-weight: bold;
+    align-items: center;
+    width: 120px;
+    background: peru;
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+}
+.table-row{
+    border: 1px solid black;
+    width: 100%;
+    font-weight: normal;
+    background: papayawhip;
+    padding: 2px;
+}
+.hover{
+    background: powderblue;
+}
